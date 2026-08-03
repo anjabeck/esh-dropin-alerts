@@ -1,0 +1,2 @@
+# Circus alerts
+Handstand classes at Esh are hard to come by. So, I set up this little tool that checks availability twice an hour and sends a ping to my phone in case something opens. On top, it sends a summary of open spots for the next week and the next day.

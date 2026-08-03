@@ -1,0 +1,13 @@
+{
+    "HB": {
+        "SubCategoryName": "Handbalancing",
+        "Level": "201"
+    },
+    "CONT": {
+        "SubCategoryName": "Contortion & Flexibility",
+        "Level": "01"
+    },
+    "TUMB": {
+        "SubCategoryName": "Tumbling"
+    }
+}
