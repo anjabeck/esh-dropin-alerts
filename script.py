@@ -24,7 +24,6 @@ API_HEADERS = {
                   "(KHTML, like Gecko) Chrome/120.0 Safari/537.36",
 }
 
-#esh-dropin-alerts
 NTFY_TOPIC = os.environ["NTFY_TOPIC"]
 STATE_FILE = "notified_state.json"
 
