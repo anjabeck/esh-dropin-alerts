@@ -2,7 +2,7 @@ name: Weekly summary
 
 on:
   schedule:
-    - cron: "0 2 * * MON"   # every Sunday at 8pm EST
+    - cron: "0 1 * * MON"   # every Sunday at 8pm EST
   workflow_dispatch:
 
 jobs:
