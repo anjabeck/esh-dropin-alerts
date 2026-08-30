@@ -9,5 +9,13 @@
     },
     "TUMB": {
         "SubCategoryName": "Tumbling"
-    }
+    },
+    "HOOP": {
+        "SubCategoryName": "Hoop",
+        "Level": "101"
+    },
+    "TRAP": {
+        "SubCategoryName": "Trapeze",
+        "Level": "101"
+    },
 }
