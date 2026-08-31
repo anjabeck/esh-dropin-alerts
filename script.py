@@ -104,7 +104,8 @@ def get_relevant_info(event):
     weekday = evtdate.strftime('%A')[0:3]
     date_str = evtdate.strftime('%d %b')
     time_str = evtdate.strftime('%I:%M %p').lstrip('0')
-    return f"{weekday} {date_str} {time_str}"
+    name = event.get('ActivityName', 'Unknown Activity').split(" - ")[1]
+    return f"{weekday} {date_str} {time_str} | {name}"
 
 def check_and_notify(conditions):
     start = dt.datetime.today().astimezone()

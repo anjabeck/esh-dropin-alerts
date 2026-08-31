@@ -7,15 +7,31 @@
         "SubCategoryName": "Contortion & Flexibility",
         "Level": "01"
     },
+    "HB-Mini": {
+        "SubCategoryName": "Handbalancing",
+        "Level": "Mini-Session"
+    },
+    "CONT-Mini": {
+        "SubCategoryName": "Contortion & Flexibility",
+        "Level": "Mini-Session"
+    },
     "TUMB": {
         "SubCategoryName": "Tumbling"
     },
     "HOOP": {
-        "SubCategoryName": "Hoop",
+        "SubCategoryName": "Aerial Hoop",
         "Level": "101"
     },
     "TRAP": {
-        "SubCategoryName": "Trapeze",
+        "SubCategoryName": "Static Trapeze",
         "Level": "101"
     },
+    "AERIAL": {
+        "SubCategoryName": "Aerial Hoop & Static Trapeze Mixed Apparatus",
+        "Level": "101"
+    },
+    "GENTLE": {
+        "SubCategoryName": "Gentle Aerials",
+        "Level": "101"
+    }
 }
